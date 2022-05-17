@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'ssf4';
+  src: url('../fontes/SSF4_ABUKET.woff'); 
+}
+
+@font-face {
+  font-family: 'command';
+  src: url('../fontes/PILOT_COMMAND.otf');
+}
+
+@font-face{
+  font-family: 'wallnotes';
+  src: url('../fontes/Wall_Notes.otf');
+}
+
+@font-face{
+  font-family:'gemstone';
+  src: url('../fontes/Gemstone.ttf');
+}
+
+@font-face{
+  font-family: 'Bubblegum';
+  src: url('../fontes/Bubblegum.ttf');
+}
